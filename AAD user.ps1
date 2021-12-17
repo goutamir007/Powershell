@@ -18,6 +18,7 @@
         UserPrincipalName = "xxxxxxxxx.onmicrosoft.com" 
         MailNickName = "xxxx"
         }
+  
 OR
 
 #STEP 4: $PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
