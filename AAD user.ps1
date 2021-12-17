@@ -1,4 +1,4 @@
-#powershell scripts to create new user in aad 
+#powershell script to create new user in aad 
 
 Step 1: Open Azure Portal and open azure cloud shell
 Step 2: Select Powershell and type the following commands to set the cloud shell for the use.
