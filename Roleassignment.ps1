@@ -5,6 +5,8 @@ Step 2: Select Powershell and type the following commands to set the cloud shell
        Install-Module Az
        Connect-AzAccount -UseDeviceAuthentication
        Select-AzSubscription -Subscription "xxxxxxxname"
+Step 3: To connect to the Azure Active Directory we need provide the following commands:
+        Connect-AzureAD      
 Step 4: New-AzRoleAssignment -ObjectId "xxxxxxx"
         -RoleDefinitionName "<rolename>"
         -Scope "/subscriptions/subscriptionid/resourcegroups/resourcegroupname/providers/Microsoft.Storage/storageAccounts/<storageaccountname>"
