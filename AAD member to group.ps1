@@ -8,4 +8,5 @@ Step 2: Select Powershell and type the following commands to set the cloud shell
 Step 3: To connect to the Azure Active Directory we need provide the following commands:
         Connect-AzureAD
 Step 4: Add-AzureADGroupMember -ObjectId "<ObjectId>" -RefObjectId "<ReferenceId>"
-        
+
+        ![](../PicsArt_12-20-01.37.38.jpg 
