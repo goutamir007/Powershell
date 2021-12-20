@@ -9,4 +9,4 @@ Step 3: To connect to the Azure Active Directory we need provide the following c
         Connect-AzureAD
 Step 4: Add-AzureADGroupMember -ObjectId "<ObjectId>" -RefObjectId "<ReferenceId>"
 
-![](../Images.PicsArt_12-20-01.37.38.jpg)
+![](../images.md/PicsArt_12-20-01.37.38.jpg)
