@@ -1,4 +1,4 @@
-#Powershell script to add new user
+#To add new user
 
 Step 1: Open Azure Portal and open Azure cloud shell
 Step 2: Select Powershell and type the following commands to set the cloud shell to use.
