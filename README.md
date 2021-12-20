@@ -35,4 +35,4 @@ Topic 11:
 [Storage account](https://github.com/goutamir007/Powershell/blob/main/storage%20account.ps1)
 
 Topic 12:
-[Virtual network](https://github.com/goutamir007/Powershell/blob/main/virtual%20network.ps1
+[Virtual network](https://github.com/goutamir007/Powershell/blob/main/virtual%20network.ps1)
