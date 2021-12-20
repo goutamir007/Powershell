@@ -17,7 +17,7 @@ Topic 5:
 [Environment Creation](https://github.com/goutamir007/Powershell/blob/main/Environment%20creation.ps1)
 
 Topic 6:
-[important Commands](https://github.com/goutamir007/Powershell/blob/main/IMPORTANT%20COMMANDS.ps1)
+[Important Commands](https://github.com/goutamir007/Powershell/blob/main/IMPORTANT%20COMMANDS.ps1)
 
 Topic 7:
 [Role Assignment at resource level](https://github.com/goutamir007/Powershell/blob/main/Role%20Assignment(2).ps1)
