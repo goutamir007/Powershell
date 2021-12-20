@@ -4,6 +4,8 @@
 Topic 1: 
 [Add a member to a group](https://github.com/goutamir007/Powershell/blob/main/AAD%20member%20to%20group.ps1)
 
+![Link1](https://github.com/goutamir007/Powershell/blob/main/Images/PicsArt_12-20-01.37.38.jpg)
+
 Topic 2: 
 [Add a member to an Azure Active Directory Role](https://github.com/goutamir007/Powershell/blob/main/AAD%20role%20assignment.ps1)
 
